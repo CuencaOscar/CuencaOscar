@@ -7,7 +7,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Python+Enthusiast;Continuous+Learner;Let's+collaborate+and+innovate!"></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🐍 &nbsp;Tracking Commit History on GitLab...
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_night.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_light.png">
+  <img alt="Gitlab Light" src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_light.png">
+</picture>
+
+
+
+### 🐍 &nbsp;Tracking Commit History on GitHub...
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuencaOscar/CuencaOscar/master/dist/github-contribution-grid-snake-dark.svg" />
