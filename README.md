@@ -6,8 +6,23 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Python+Enthusiast;Continuous+Learner;Let's+collaborate+and+innovate!"></a>
 </p>
+<br /> 
+
+<!--Header Name-->
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer with a passion for Python, React.js, Node.js, Django, RDBMS, REST API, and Data Visualization.</p>
+
+- ✨ Lifelong learner :)
+- 🌱 Currently pursuing multiple master's degrees in software and artificial intelligence.
+- 🏙 Working remotely as a Full Stack Developer at Familify.
+- 💻 Visit my [LinkedIn](https://www.linkedin.com/in/ocuenca-moreno/) for more details about me.
+<!--End Intro-->
 
 ### 🐍 &nbsp;Tracking Commit History on GitLab...
+<br /> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_night.png">
@@ -16,6 +31,7 @@
 </picture>
 
 ### 📚 &nbsp;Education
+<br /> 
 <p>As an engineer committed to lifelong learning, my academic journey is both active and aspirational. After obtaining my engineering degree, I am advancing through my master's programs, with the ultimate goal of attaining a doctoral degree.</p><br>
 
 <div align="center">
@@ -51,6 +67,7 @@
 
 
 ### 🐍 &nbsp;Tracking Commit History on GitHub...
+<br /> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuencaOscar/CuencaOscar/master/dist/github-contribution-grid-snake-dark.svg" />
@@ -59,33 +76,8 @@
 </picture>
 
 ### ⚙️ &nbsp;GitHub Analytics
+<br /> 
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CuencaOscar&theme=dark&hide_border=true"/>
 </p>
-
-
-
-
-
-<!-- <br> -->
-
-
-
-
-<!-- ## Hi there 👋 -->
-
-<!--
-**CuencaOscar/CuencaOscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
