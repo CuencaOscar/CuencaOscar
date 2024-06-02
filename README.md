@@ -15,6 +15,39 @@
   <img alt="Gitlab Light" src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_light.png">
 </picture>
 
+### 📚 &nbsp;Education
+<p>As an engineer committed to lifelong learning, my academic journey is both active and aspirational. After obtaining my engineering degree, I am advancing through my master's programs, with the ultimate goal of attaining a doctoral degree.</p><br>
+
+<div align="center">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+      <td align="center" style="width: 200px; height: 300px;">
+        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_UDA.png" width="90" alt="Universidad del Azuay"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" height="20" alt="Ecuador"/><br>
+        <strong>Universidad del Azuay</strong><br><strong>INGENIERÍA ELECTRÓNICA</strong><br>
+        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
+      </td>
+      <td align="center" style="width: 200px; height: 300px;">
+        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_VIU.png" width="90" alt="Universidad Internacional de Valencia"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="Spain"/><br>
+        <strong>Universidad Internacional de Valencia</strong><br><strong>MÁSTER UNIVERSITARIO EN DESARROLLO DE APLICACIONES Y SERVICIOS WEB</strong><br>
+        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
+      </td>
+      <td align="center" style="width: 200px; height: 300px;">
+        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_UTM.png" width="90" alt="Universidad Técnica de Machala"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" height="20" alt="Ecuador"/><br>
+        <strong>Universidad Técnica de Machala</strong><br><strong>MAESTRÍA EN SOFTWARE</strong><br>
+        <img src="https://progress-bar.dev/50/?title=progress" width="105" alt="Progress"/>
+      </td>
+      <td align="center" style="width: 200px; height: 300px;">
+        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_VIU.png" width="90" alt="Universidad Internacional de Valencia"/><br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="Spain"/><br>
+        <strong>Universidad Internacional de Valencia</strong><br><strong>MÁSTER UNIVERSITARIO EN INTELIGENCIA ARTIFICIAL</strong><br>
+        <img src="https://progress-bar.dev/30/?title=progress" width="105" alt="Progress"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### 🐍 &nbsp;Tracking Commit History on GitHub...
@@ -26,7 +59,6 @@
 </picture>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CuencaOscar&theme=dark&hide_border=true"/>
