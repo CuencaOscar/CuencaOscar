@@ -77,16 +77,29 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <br /> 
-
+<div align="center">
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CuencaOscar&theme=dark&hide_border=true"/>
 </p>
-
 <a href="https://github.com/CuencaOscar">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuencaOscar&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/CuencaOscar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CuencaOscar&show_icons=true&theme=tokyonight&line_height=27" alt="Oscar's github stats"/>
 </a>
+</div>
 
+<!--Contact Section--> 
+
+### 🤝 &nbsp;Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
+<div align="center">
+ <a href="https://www.linkedin.com/in/ocuenca-moreno/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:ocuencamoreno@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ocuencamoreno@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/oscarcuenca__" target="_blank">
+  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=CuencaOscar Instagram style="margin-bottom: 5px;" />
+</a>
+</div>
