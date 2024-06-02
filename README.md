@@ -5,13 +5,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Python+Enthusiast;Continuous+Learner;Let's+collaborate+and+innovate!"></a>
 </p>
 
-<!-- ### 🐍 &nbsp;That's How Commits move ...
+### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
   <a href="https://github.com/CuencaOscar/">
-  <img src="https://github.com/CuencaOscar/CuencaOscar/blob/main/resources/img/grid-snake.svg"
+  <img src="https://github.com/CuencaOscar/CuencaOscar/blob/main/dist/snake.svg"
        alt="snake" /></a>
-</div> -->
+</div>
 
 
 
