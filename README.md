@@ -25,6 +25,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/CuencaOscar/CuencaOscar/master/dist/github-contribution-grid-snake.svg" />
 </picture>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CuencaOscar&theme=dark&hide_border=true"/>
+</p>
+
 
 
 
