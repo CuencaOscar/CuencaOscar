@@ -81,3 +81,12 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CuencaOscar&theme=dark&hide_border=true"/>
 </p>
+
+<a href="https://github.com/CuencaOscar">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuencaOscar&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/CuencaOscar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=CuencaOscar&show_icons=true&theme=tokyonight&line_height=27" alt="Oscar's github stats"/>
+</a>
+
