@@ -43,8 +43,9 @@ Each thesis pairs a mobile app with a REST API that serves a trained model, with
 | [master_viu_ia](https://github.com/CuencaOscar/master_viu_ia) | AI master's coursework: optimization algorithms and metaheuristics | Python · Jupyter |
 | [ecommerce-backend](https://github.com/CuencaOscar/ecommerce-backend) | Store API: catalog, JWT accounts, cart and checkout, with tests and CI | Django REST Framework |
 | [ecommerce-frontend](https://github.com/CuencaOscar/ecommerce-frontend) | Store web client: catalog, sign-in, cart, checkout and order history | React |
-| [MusicPlayer](https://github.com/CuencaOscar/MusicPlayer) | Music player with streaming playback, mini player, artists and playlists | React Native · Expo Router |
+| [MusicPlayer](https://github.com/CuencaOscar/MusicPlayer) · [▶ demo](https://cuencaoscar.github.io/MusicPlayer/) | Music player with streaming playback, mini player, artists and playlists | React Native · Expo Router |
 | [CRUD_DRF](https://github.com/CuencaOscar/CRUD_DRF) | REST API with JWT authentication | Django REST Framework |
+| [Solitario-Viu](https://github.com/CuencaOscar/Solitario-Viu) · [▶ play](https://cuencaoscar.github.io/Solitario-Viu/) | Card game with drag and drop in the browser | JavaScript · HTML5 |
 
 ## Education
 
