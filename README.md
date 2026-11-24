@@ -1,114 +1,49 @@
-![Mi Banner](https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/banner.png)
-
-<!-- Saludo -->
-<h1 align="center"><b>Hi, I'm Oscar Cuenca Moreno</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Python+Enthusiast;Continuous+Learner;Let's+collaborate+and+innovate!"></a>
+  <img src="assets/banner.png" alt="Oscar Cuenca — Full Stack Developer" width="100%">
 </p>
-<br /> 
 
-<!--Header Name-->
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me
-<br /> 
+# Oscar Cuenca
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a passion for Python, React.js, Node.js, Django, RDBMS, REST API, and Data Visualization.</p>
+**Full Stack Developer · Electronics Engineer · MSc in Artificial Intelligence**
 
-- ✨ Lifelong learner :)
-- 🎓 Electronics Engineer with three master's degrees: Artificial Intelligence, Web Applications and Services Development, and Software.
-- 🤖 Building mobile apps with applied AI: plant disease detection and Alzheimer's image classification.
-- 🏙 Working remotely as a Full Stack Developer at Familify.
-- 💻 Visit my [LinkedIn](https://www.linkedin.com/in/ocuenca-moreno/) for more details about me.
-<!--End Intro-->
+I build web, mobile and desktop applications end to end — from the database to the screen —
+and bring machine learning into them when the problem calls for it. Since 2019 I've worked
+remotely with teams in the United States, Argentina, Chile, Guatemala and Ecuador.
 
-### 🚀 &nbsp;Featured projects
-<br />
+Most of my professional work lives in private repositories. Here you'll find personal and
+academic projects.
 
-| Project | Description | Stack |
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Backend | Python · Django REST Framework · Node.js · TypeScript · PostgreSQL |
+| Frontend & mobile | React · Next.js · React Native · Expo · Tailwind CSS |
+| AI & data | Machine learning · CNNs · Computer vision · Jupyter |
+| DevOps & tooling | Docker · Git · AWS · GitHub Actions |
+
+## Featured projects
+
+| Project | What it is | Stack |
 |---|---|---|
-| [BananaGuard](https://github.com/CuencaOscar/BananaGuard) | Mobile app for banana leaf disease detection (AI master's thesis) | React Native · TypeScript |
+| [BananaGuard](https://github.com/CuencaOscar/BananaGuard) | Mobile app for banana leaf disease detection — AI master's thesis | React Native · TypeScript |
 | [master_viu_ia](https://github.com/CuencaOscar/master_viu_ia) | AI master's coursework: optimization algorithms and metaheuristics | Python · Jupyter |
+| [ecommerce-backend](https://github.com/CuencaOscar/ecommerce-backend) | REST API for an online store: catalog, users, cart and orders | Django REST Framework |
+| [ecommerce-frontend](https://github.com/CuencaOscar/ecommerce-frontend) | Web client for the store | React |
+| [MusicPlayer](https://github.com/CuencaOscar/MusicPlayer) | Music player app with songs, artists, playlists and favorites | React Native · Expo Router |
+| [CRUD_DRF](https://github.com/CuencaOscar/CRUD_DRF) | REST API with JWT authentication | Django REST Framework |
 
-### 🐍 &nbsp;Tracking Commit History on GitLab...
-<br /> 
+## Education
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_night.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_light.png">
-  <img alt="Gitlab Light" src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/gitlab_light.png">
-</picture>
+- **MSc in Artificial Intelligence** — Universidad Internacional de Valencia (2025)
+- **MSc in Web Applications and Services Development** — Universidad Internacional de Valencia (2024)
+- **Master's in Software** — Universidad Técnica de Machala (2024)
+- **Electronics Engineering** — Universidad del Azuay (2021)
 
-### 📚 &nbsp;Education
-<br /> 
-<p>As an engineer committed to lifelong learning, I completed three master's degrees after my engineering degree, each one with a thesis on mobile apps powered by machine learning. Next goal: a doctoral degree.</p><br>
+Each master's thesis is a mobile app powered by machine learning: plant disease
+classification, banana leaf disease detection and Alzheimer's image classification.
 
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center" style="width: 200px; height: 300px;">
-        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_UDA.png" width="90" alt="Universidad del Azuay"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" height="20" alt="Ecuador"/><br>
-        <strong>Universidad del Azuay</strong><br><strong>INGENIERÍA ELECTRÓNICA</strong><br>
-        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
-      </td>
-      <td align="center" style="width: 200px; height: 300px;">
-        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_VIU.png" width="90" alt="Universidad Internacional de Valencia"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="Spain"/><br>
-        <strong>Universidad Internacional de Valencia</strong><br><strong>MÁSTER UNIVERSITARIO EN DESARROLLO DE APLICACIONES Y SERVICIOS WEB</strong><br>
-        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
-      </td>
-      <td align="center" style="width: 200px; height: 300px;">
-        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_UTM.png" width="90" alt="Universidad Técnica de Machala"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" height="20" alt="Ecuador"/><br>
-        <strong>Universidad Técnica de Machala</strong><br><strong>MAESTRÍA EN SOFTWARE</strong><br>
-        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
-      </td>
-      <td align="center" style="width: 200px; height: 300px;">
-        <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_VIU.png" width="90" alt="Universidad Internacional de Valencia"/><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="Spain"/><br>
-        <strong>Universidad Internacional de Valencia</strong><br><strong>MÁSTER UNIVERSITARIO EN INTELIGENCIA ARTIFICIAL</strong><br>
-        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
-      </td>
-    </tr>
-  </table>
-</div>
+## Contact
 
-
-### 🐍 &nbsp;Tracking Commit History on GitHub...
-<br /> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuencaOscar/CuencaOscar/master/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CuencaOscar/CuencaOscar/master/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CuencaOscar/CuencaOscar/master/dist/github-contribution-grid-snake.svg" />
-</picture>
-
-### ⚙️ &nbsp;GitHub Analytics
-<br /> 
-<div align="center">
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CuencaOscar&theme=dark&hide_border=true"/>
-</p>
-<a href="https://github.com/CuencaOscar">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuencaOscar&theme=tokyonight" />
-</a>
-<a href="https://github.com/CuencaOscar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CuencaOscar&show_icons=true&theme=tokyonight&line_height=27" alt="Oscar's github stats"/>
-</a>
-</div>
-
-<!--Contact Section--> 
-
-### 🤝 &nbsp;Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
-<div align="center">
- <a href="https://www.linkedin.com/in/ocuenca-moreno/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:ocuencamoreno@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=ocuencamoreno@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/oscarcuenca__" target="_blank">
-  <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=CuencaOscar Instagram style="margin-bottom: 5px;" />
-</a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ocuenca--moreno-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ocuenca-moreno/)
+[![Email](https://img.shields.io/badge/Email-ocuencamoreno%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ocuencamoreno@gmail.com)
