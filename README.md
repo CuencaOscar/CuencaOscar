@@ -19,14 +19,27 @@ academic projects.
 |---|---|
 | Backend | Python · Django REST Framework · Node.js · TypeScript · PostgreSQL |
 | Frontend & mobile | React · Next.js · React Native · Expo · Tailwind CSS |
-| AI & data | Machine learning · CNNs · Computer vision · Jupyter |
-| DevOps & tooling | Docker · Git · AWS · GitHub Actions |
+| AI & data | PyTorch · TensorFlow / Keras · CNNs · Computer vision · Jupyter |
+| DevOps & tooling | Docker · Git · AWS · GitHub Actions · Firebase |
 
 ## Featured projects
 
+### Master's theses — machine learning in production
+
+Each thesis pairs a mobile app with a REST API that serves a trained model, with tests, CI and Docker.
+
 | Project | What it is | Stack |
 |---|---|---|
-| [BananaGuard](https://github.com/CuencaOscar/BananaGuard) | Mobile app for banana leaf disease detection — AI master's thesis | React Native · TypeScript |
+| [PhytoAnalytic-Engine](https://github.com/CuencaOscar/PhytoAnalytic-Engine) | API that detects 38 plant leaf diseases with a ResNet9 CNN | PyTorch · Flask · Docker |
+| [LeafHealth-Tracker](https://github.com/CuencaOscar/LeafHealth-Tracker) | Mobile app: photo diagnosis with geolocated history | React Native · Expo · Firebase |
+| [NeuroEngine](https://github.com/CuencaOscar/NeuroEngine) | API that classifies brain MRI scans into four Alzheimer's stages | TensorFlow · Keras · Flask |
+| [NeuroImage-Insight](https://github.com/CuencaOscar/NeuroImage-Insight) | Mobile app for the Alzheimer's classifier | React Native · Expo · Firebase |
+| [BananaGuard](https://github.com/CuencaOscar/BananaGuard) | Mobile app for banana leaf disease detection | React Native · TypeScript |
+
+### Other projects
+
+| Project | What it is | Stack |
+|---|---|---|
 | [master_viu_ia](https://github.com/CuencaOscar/master_viu_ia) | AI master's coursework: optimization algorithms and metaheuristics | Python · Jupyter |
 | [ecommerce-backend](https://github.com/CuencaOscar/ecommerce-backend) | REST API for an online store: catalog, users, cart and orders | Django REST Framework |
 | [ecommerce-frontend](https://github.com/CuencaOscar/ecommerce-frontend) | Web client for the store | React |
