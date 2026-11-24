@@ -16,10 +16,19 @@
 <p align="left">I am a Full Stack Developer with a passion for Python, React.js, Node.js, Django, RDBMS, REST API, and Data Visualization.</p>
 
 - ✨ Lifelong learner :)
-- 🌱 Currently pursuing multiple master's degrees in software and artificial intelligence.
+- 🎓 Electronics Engineer with three master's degrees: Artificial Intelligence, Web Applications and Services Development, and Software.
+- 🤖 Building mobile apps with applied AI: plant disease detection and Alzheimer's image classification.
 - 🏙 Working remotely as a Full Stack Developer at Familify.
 - 💻 Visit my [LinkedIn](https://www.linkedin.com/in/ocuenca-moreno/) for more details about me.
 <!--End Intro-->
+
+### 🚀 &nbsp;Featured projects
+<br />
+
+| Project | Description | Stack |
+|---|---|---|
+| [BananaGuard](https://github.com/CuencaOscar/BananaGuard) | Mobile app for banana leaf disease detection (AI master's thesis) | React Native · TypeScript |
+| [master_viu_ia](https://github.com/CuencaOscar/master_viu_ia) | AI master's coursework: optimization algorithms and metaheuristics | Python · Jupyter |
 
 ### 🐍 &nbsp;Tracking Commit History on GitLab...
 <br /> 
@@ -32,7 +41,7 @@
 
 ### 📚 &nbsp;Education
 <br /> 
-<p>As an engineer committed to lifelong learning, my academic journey is both active and aspirational. After obtaining my engineering degree, I am advancing through my master's programs, with the ultimate goal of attaining a doctoral degree.</p><br>
+<p>As an engineer committed to lifelong learning, I completed three master's degrees after my engineering degree, each one with a thesis on mobile apps powered by machine learning. Next goal: a doctoral degree.</p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
@@ -53,13 +62,13 @@
         <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_UTM.png" width="90" alt="Universidad Técnica de Machala"/><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg" height="20" alt="Ecuador"/><br>
         <strong>Universidad Técnica de Machala</strong><br><strong>MAESTRÍA EN SOFTWARE</strong><br>
-        <img src="https://progress-bar.dev/50/?title=progress" width="105" alt="Progress"/>
+        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
       </td>
       <td align="center" style="width: 200px; height: 300px;">
         <img src="https://github.com/CuencaOscar/CuencaOscar/blob/master/assets/Logo_VIU.png" width="90" alt="Universidad Internacional de Valencia"/><br>
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="20" alt="Spain"/><br>
         <strong>Universidad Internacional de Valencia</strong><br><strong>MÁSTER UNIVERSITARIO EN INTELIGENCIA ARTIFICIAL</strong><br>
-        <img src="https://progress-bar.dev/30/?title=progress" width="105" alt="Progress"/>
+        <img src="https://progress-bar.dev/100/?title=progress" width="105" alt="Progress"/>
       </td>
     </tr>
   </table>
