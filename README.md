@@ -46,6 +46,7 @@ Each thesis pairs a mobile app with a REST API that serves a trained model, with
 | [MusicPlayer](https://github.com/CuencaOscar/MusicPlayer) · [▶ demo](https://cuencaoscar.github.io/MusicPlayer/) · [APK](https://github.com/CuencaOscar/MusicPlayer/releases/latest) | Music player with streaming playback, mini player, artists and playlists | React Native · Expo Router |
 | [CRUD_DRF](https://github.com/CuencaOscar/CRUD_DRF) | Events REST API: JWT-protected writes, search, filters, pagination and Swagger docs | Django REST Framework |
 | [Solitario-Viu](https://github.com/CuencaOscar/Solitario-Viu) · [▶ play](https://cuencaoscar.github.io/Solitario-Viu/) | Card game with drag and drop in the browser | JavaScript · HTML5 |
+| [Pokemon-s-Grid](https://github.com/CuencaOscar/Pokemon-s-Grid) · [APK](https://github.com/CuencaOscar/Pokemon-s-Grid/releases/latest) | Grid exploration game inspired by *Hunt the Wumpus*, with Pokémon from the PokéAPI | React Native · TypeScript |
 
 ## Education
 
